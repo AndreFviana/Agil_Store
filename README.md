@@ -1,5 +1,5 @@
 # Agil_Store
-Este é um projeto simples que permite a gestão automatizada do inventário de produtos de uma loja de eletroônicos.
+Este é um projeto simples que permite a gestão automatizada do inventário de produtos de uma loja de eletrônicos.
 
 <img src="./__pycache__/projeto.png">
 
