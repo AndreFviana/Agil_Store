@@ -12,7 +12,7 @@ Passo 2:  Após baixar  e instalar o python, abra a prompt de comando e instale 
 
 Passo 3: No seu editor de códigos, baixe a extenção oficial para Python.
 
-Passo 4: No Git Hub deste projeto, clique no arquivo "inventário.py", selecione todo o código, copie, cole no seu editor de código.
+Passo 4: No Git Hub deste projeto, faça o clone para a sua máquina.
 
 Passo 5: execute o arquivo "inventario.py" no prompt de comando integrado do seu editor de código.
 
